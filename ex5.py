@@ -2,11 +2,11 @@
 # @Author: CJ Ting
 # @Date:   2017-03-25 19:14:07
 # @Last Modified by:   CJ Ting
-# @Last Modified time: 2017-03-25 19:57:28
+# @Last Modified time: 2017-04-30 00:12:18
 
 # 这题实在是一头雾水，作者只给了一句提示
 # `peak hell sounds familiar ?`
-# 作为中国人，我实在是不知道再按时啥
+# 作为中国人，我实在是不知道再暗示啥
 # 网页里藏了一个数据，`banner.p`，里面是一段杂乱的编码
 # 看着像二进制数据的某种编码
 # 到此我卡住了，只能求助Google了
