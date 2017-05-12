@@ -23,3 +23,7 @@
 - [Challenge 9](https://github.com/fate-lovely/python-challenge/blob/master/ex9.py)
 
 - [Challenge 10](https://github.com/fate-lovely/python-challenge/blob/master/ex10.py)
+
+- [Challenge 11](https://github.com/fate-lovely/python-challenge/blob/master/ex11.py)
+
+- [Challenge 12](https://github.com/fate-lovely/python-challenge/blob/master/ex12.py)
