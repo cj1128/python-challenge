@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: CJ Ting
-# @Date:   2017-05-12 16:19:58
-# @Last Modified by:   CJ Ting
-# @Last Modified time: 2017-05-12 17:25:08
-
 # 首先，点击`5`号按键来到`phonebook.php`页面
 # 但是返回的是一段奇怪的XML文档
 # 文档看起来像是某种协议的返回结果

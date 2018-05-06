@@ -1,31 +1,21 @@
-# Python Challenge
+<h1 align="center">
+  <a href="http://www.pythonchallenge.com/">Python Challenge</a>
+</h1>
 
-记录[Python Challenge](http://www.pythonchallenge.com/)的解法。
+Note: **Code should be running using python 3**.
 
-- [Challenge 0](https://github.com/fate-lovely/python-challenge/blob/master/ex0.py)
-
-- [Challenge 1](https://github.com/fate-lovely/python-challenge/blob/master/ex1.py)
-
-- [Challenge 2](https://github.com/fate-lovely/python-challenge/blob/master/ex2.py)
-
-- [Challenge 3](https://github.com/fate-lovely/python-challenge/blob/master/ex3.py)
-
-- [Challenge 4](https://github.com/fate-lovely/python-challenge/blob/master/ex4.py)
-
-- [Challenge 5](https://github.com/fate-lovely/python-challenge/blob/master/ex5.py)
-
-- [Challenge 6](https://github.com/fate-lovely/python-challenge/blob/master/ex6.py)
-
-- [Challenge 7](https://github.com/fate-lovely/python-challenge/blob/master/ex7.py)
-
-- [Challenge 8](https://github.com/fate-lovely/python-challenge/blob/master/ex8.py)
-
-- [Challenge 9](https://github.com/fate-lovely/python-challenge/blob/master/ex9.py)
-
-- [Challenge 10](https://github.com/fate-lovely/python-challenge/blob/master/ex10.py)
-
-- [Challenge 11](https://github.com/fate-lovely/python-challenge/blob/master/ex11.py)
-
-- [Challenge 12](https://github.com/fate-lovely/python-challenge/blob/master/ex12.py)
-
-- [Challenge 13](https://github.com/fate-lovely/python-challenge/blob/master/ex13.py)
+- 00: http://www.pythonchallenge.com/pc/def/0.html
+- 01: http://www.pythonchallenge.com/pc/def/274877906944.html
+- 02: http://www.pythonchallenge.com/pc/def/ocr.html
+- 03: http://www.pythonchallenge.com/pc/def/equality.html
+- 04: http://www.pythonchallenge.com/pc/def/linkedlist.php
+- 05: http://www.pythonchallenge.com/pc/def/peak.html
+- 06: http://www.pythonchallenge.com/pc/def/channel.html
+- 07: http://www.pythonchallenge.com/pc/def/oxygen.html
+- 08: http://www.pythonchallenge.com/pc/def/integrity.html
+- 09: http://www.pythonchallenge.com/pc/return/good.html
+- 10: http://www.pythonchallenge.com/pc/return/bull.html
+- 11: http://www.pythonchallenge.com/pc/return/5808.html
+- 12: http://www.pythonchallenge.com/pc/return/evil.html
+- 13: http://www.pythonchallenge.com/pc/return/disproportional.html
+- 14: http://www.pythonchallenge.com/pc/return/italy.html

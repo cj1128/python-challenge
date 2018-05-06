@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: cj
-# @Date:   2017-03-25 17:08:31
-# @Last Modified by:   CJ Ting
-# @Last Modified time: 2017-03-25 17:33:03
-
 # 首先从源码的注释中找到这个大的字符串
 
 s="""
@@ -1236,17 +1230,7 @@ for s in s:
     frequency[s] += 1
   else:
     frequency[s] = 1
-for (k, v) in frequency.items():
-  print(k, v)
 
-# 根据上面的结果，`aeilquty`这些字符只出现了一次
-# 现在要知道这些字符的出现顺序从而决定排序
-
-import operator
-
-result = {}
-for c in "aeilquty":
-  result[c] = str.index(c)
-
-print(sorted(result.items(), key=operator.itemgetter(1)))
-# 打印结果为：equality
+result = [k for k, v in frequency.items() if v == 1]
+print("".join(result))
+# equality

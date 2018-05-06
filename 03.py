@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: CJ Ting
-# @Date:   2017-03-25 17:27:47
-# @Last Modified by:   CJ Ting
-# @Last Modified time: 2017-03-25 18:10:04
-
 # 提示只给了一句莫名其妙的话，一点信息都没有
 # 想起上一题的套路，检查源码看看，果然有惊喜
 

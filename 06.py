@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: CJ Ting
-# @Date:   2017-03-25 19:34:31
-# @Last Modified by:   CJ Ting
-# @Last Modified time: 2017-03-25 22:40:00
-
 # 不得不说这个题目太烧脑了
 # 这一题没有任何提示，只有一句注释`zip`
 # 我首先想，难道是用要压缩或者解压缩什么东西吗？但是没有找到相应的数据呀

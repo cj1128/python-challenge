@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: CJ Ting
-# @Date:   2017-03-27 21:40:44
-# @Last Modified by:   CJ Ting
-# @Last Modified time: 2017-03-28 23:06:52
-
 # 这里只给了一张图片，所以我们第一想法就是解析这张图片
 # 图片中间位置有一系列纯色块的像素，我们将颜色取出来看看
 

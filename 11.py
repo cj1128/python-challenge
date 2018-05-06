@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: CJ Ting
-# @Date:   2017-05-12 12:12:27
-# @Last Modified by:   CJ Ting
-# @Last Modified time: 2017-05-12 12:24:52
-
 # 同样，没有任何头绪，总之肯定是图片操作了
 # Google，原始标题`odd even`是提示按照奇偶来切割图片
 

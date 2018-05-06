@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: CJ Ting
-# @Date:   2017-05-10 21:50:37
-# @Last Modified by:   CJ Ting
-# @Last Modified time: 2017-05-11 22:49:18
-
 # 这题同样是完全没有头绪，主要是这个数组实在看不懂
 # Google，原来这个数组叫做`look-and-say sequence`
 # 也就是，后面的数字用来描述前面的数字

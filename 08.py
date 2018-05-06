@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: CJ Ting
-# @Date:   2017-03-28 23:09:02
-# @Last Modified by:   CJ Ting
-# @Last Modified time: 2017-04-30 00:36:58
-
 # 这一题实在是没有任何头绪
 # 最终无奈Google，网页说页面提示了`inflate`，我硬是没找到
 # 如果找到了这个词，继续能联想到关于压缩的话，这题就很简单了

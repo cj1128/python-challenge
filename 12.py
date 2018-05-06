@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: CJ Ting
-# @Date:   2017-05-12 14:20:12
-# @Last Modified by:   CJ Ting
-# @Last Modified time: 2017-05-12 15:14:31
-
 # 这一题也是完全没有头绪
 # 上一题是对图片进行操作，我在想，难不成这一题也是操作图片？
 # 可是怎么操作呢？总不能再是奇偶分割了。
